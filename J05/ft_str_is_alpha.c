@@ -40,7 +40,7 @@ int ft_str_is_alpha(char *str)
 
 int main()
 {
-    char str[] = "salut";
+    char str[] = "salut toi beau gosse";
 
     printf("ft_str_is_alpha %d", ft_str_is_alpha(str));
     return 0;
